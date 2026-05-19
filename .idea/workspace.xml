@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c123af08-3696-42c1-a546-ae83c61faf7a" name="Changes" comment="" />
+    <list default="true" id="c123af08-3696-42c1-a546-ae83c61faf7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-Introduction-to-python/01-Basic-Syntax-and-Data-Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-Introduction-to-python/02-Variables-and-operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-Introduction-to-python/03-input-output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3DvaUvawABUoYXmnRRGQCu8TW5R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +39,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01-Basic-Syntax-and-Data-Types.executor": "Run",
+    "Python.02-Variables-and-operator.executor": "Run",
+    "Python.03-input-output.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
@@ -43,11 +64,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779165018068</updated>
-      <workItem from="1779165019105" duration="1000" />
+      <workItem from="1779165019105" duration="38000" />
+      <workItem from="1779198939127" duration="6332000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$03_input_output.coverage" NAME="03-input-output Coverage Results" MODIFIED="1779205469530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-Introduction-to-python" />
+    <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$01_Basic_Syntax_and_Data_Types.coverage" NAME="01-Basic-Syntax-and-Data-Types Coverage Results" MODIFIED="1779202985582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-Introduction-to-python" />
+    <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$02_Variables_and_operator.coverage" NAME="02-Variables-and-operator Coverage Results" MODIFIED="1779204468670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-Introduction-to-python" />
   </component>
 </project>
