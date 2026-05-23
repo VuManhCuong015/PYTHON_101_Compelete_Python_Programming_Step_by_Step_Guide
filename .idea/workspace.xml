@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c123af08-3696-42c1-a546-ae83c61faf7a" name="Changes" comment="commit update">
-      <change afterPath="$PROJECT_DIR$/9-advanced-python-topics/01-functional-programming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-advanced-python-topics/02-Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-advanced-python-topics/03-Generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Data-science-with-python/01-Numpy-Pandas-Manipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Data-science-with-python/02-Data-Visualization-Matplotlib-Seaborn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,7 @@
     "Python.01-Basic-Syntax-and-Data-Types.executor": "Run",
     "Python.01-Creating-and-importing-modules.executor": "Debug",
     "Python.01-Defining-Functions.executor": "Run",
+    "Python.01-Numpy-Pandas-Manipulation.executor": "Debug",
     "Python.01-try-except-blocks.executor": "Run",
     "Python.02-Decorators.executor": "Debug",
     "Python.02-Functions-Parameters-Arguments.executor": "Run",
@@ -79,7 +79,32 @@
       <recent name="D:\PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide\3-Function" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02-Decorators">
+  <component name="RunManager" selected="Python.01-Numpy-Pandas-Manipulation">
+    <configuration name="01-Numpy-Pandas-Manipulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-Data-science-with-python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-Data-science-with-python/01-Numpy-Pandas-Manipulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01-try-except-blocks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide" />
       <option name="ENV_FILES" value="" />
@@ -180,38 +205,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7-module-Pakagesss" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7-module-Pakagesss/03-matplotlib.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01-Numpy-Pandas-Manipulation" />
         <item itemvalue="Python.02-Decorators" />
         <item itemvalue="Python.02-raising-exceptions" />
         <item itemvalue="Python.02-installing-external-packages" />
         <item itemvalue="Python.01-try-except-blocks" />
-        <item itemvalue="Python.03-matplotlib" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +238,8 @@
       <workItem from="1779413918677" duration="10295000" />
       <workItem from="1779441184114" duration="261000" />
       <workItem from="1779459227631" duration="1649000" />
-      <workItem from="1779508680391" duration="4501000" />
+      <workItem from="1779508680391" duration="4763000" />
+      <workItem from="1779543241893" duration="4958000" />
     </task>
     <task id="LOCAL-00001" summary="exercise 1">
       <option name="closed" value="true" />
@@ -272,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779459259315</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit update">
+      <option name="closed" value="true" />
+      <created>1779513433382</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779513433382</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,6 +305,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$02_Functions_Parameters_Arguments.coverage" NAME="02-Functions-Parameters-Arguments Coverage Results" MODIFIED="1779250120794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-Functions" />
+    <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$01_Numpy_Pandas_Manipulation.coverage" NAME="01-Numpy-Pandas-Manipulation Coverage Results" MODIFIED="1779546388175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10-Data-science-with-python" />
     <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$03_Polymorphism.coverage" NAME="03-Polymorphism Coverage Results" MODIFIED="1779334379783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-object-orinted-programming-oop" />
     <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$03_matplotlib.coverage" NAME="03-matplotlib Coverage Results" MODIFIED="1779420485690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-module-Pakagesss" />
     <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$02_Variables_and_operator.coverage" NAME="02-Variables-and-operator Coverage Results" MODIFIED="1779204468670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-Introduction-to-python" />
