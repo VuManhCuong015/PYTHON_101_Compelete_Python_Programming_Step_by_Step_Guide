@@ -2,19 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c123af08-3696-42c1-a546-ae83c61faf7a" name="Changes" comment="commit update">
-      <change afterPath="$PROJECT_DIR$/11-Web-Development-python/02-Django-Framwork.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-Web-Development-python/View.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-Web-Development-python/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-module-Pakages/my_package/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-module-Pakagesss/01-Creating-and-importing-modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/7-module-Pakages/01-Creating-and-importing-modules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-module-Pakagesss/02-installing-external-packages.py" beforeDir="false" afterPath="$PROJECT_DIR$/7-module-Pakages/02-installing-external-packages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-module-Pakagesss/03-matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/7-module-Pakages/03-matplotlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-module-Pakagesss/my_package/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/11-Web-Development-python/01-Flask-FrameWork.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-module-Pakagesss/my_package/math.py" beforeDir="false" afterPath="$PROJECT_DIR$/7-module-Pakages/my_package/math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-module-Pakagesss/my_package/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/7-module-Pakages/my_package/my_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-module-Pakagesss/my_package/strings_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/7-module-Pakages/my_package/strings_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Introduction-to-python/01-Basic-Syntax-and-Data-Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Introduction-to-python/01-Basic-Syntax-and-Data-Types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Introduction-to-python/02-Variables-and-operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Introduction-to-python/02-Variables-and-operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Introduction-to-python/03-input-output.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Introduction-to-python/03-input-output.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Control-Flow/01-conditional-statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-Control-Flow/01-conditional-statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Control-Flow/02-Loops-for-while.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-Control-Flow/02-Loops-for-while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Control-Flow/03-break-continue-satements.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-Control-Flow/03-break-continue-satements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Functions/01-Defining-Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-Functions/01-Defining-Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Functions/02-Functions-Parameters-Arguments.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-Functions/02-Functions-Parameters-Arguments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Functions/03-Return-Values.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-Functions/03-Return-Values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Functions/04-recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/03-Functions/04-recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Data-Structure/01-List.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-Data-Structure/01-List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Data-Structure/02-Tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-Data-Structure/02-Tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Data-Structure/03-dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-Data-Structure/03-dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Data-Structure/04-sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-Data-Structure/04-sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-object-orinted-programming-oop/01-classes-objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-object-orinted-programming-oop/01-classes-objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-object-orinted-programming-oop/02-Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-object-orinted-programming-oop/02-Inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-object-orinted-programming-oop/03-Polymorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-object-orinted-programming-oop/03-Polymorphism.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-object-orinted-programming-oop/04-Encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/05-object-orinted-programming-oop/04-Encapsulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-file-handling/01-file.py" beforeDir="false" afterPath="$PROJECT_DIR$/06-file-handling/01-file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-file-handling/02-modes-operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/06-file-handling/02-modes-operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-module-Pakages/01-Creating-and-importing-modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-module-Pakages/01-Creating-and-importing-modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-module-Pakages/02-installing-external-packages.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-module-Pakages/02-installing-external-packages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-module-Pakages/03-matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-module-Pakages/03-matplotlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-module-Pakages/my_package/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-module-Pakages/my_package/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-module-Pakages/my_package/math.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-module-Pakages/my_package/math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-module-Pakages/my_package/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-module-Pakages/my_package/my_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-module-Pakages/my_package/strings_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-module-Pakages/my_package/strings_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-Exception-handling/01-try-except-blocks.py" beforeDir="false" afterPath="$PROJECT_DIR$/08-Exception-handling/01-try-except-blocks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-Exception-handling/02-raising-exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/08-Exception-handling/02-raising-exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-Exception-handling/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/08-Exception-handling/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-advanced-python-topics/01-functional-programming.py" beforeDir="false" afterPath="$PROJECT_DIR$/09-advanced-python-topics/01-functional-programming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-advanced-python-topics/02-Decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/09-advanced-python-topics/02-Decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-advanced-python-topics/03-Generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/09-advanced-python-topics/03-Generators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +276,7 @@
       <workItem from="1779508680391" duration="4763000" />
       <workItem from="1779543241893" duration="4994000" />
       <workItem from="1779627169424" duration="8157000" />
-      <workItem from="1779635674531" duration="725000" />
+      <workItem from="1779635674531" duration="1048000" />
     </task>
     <task id="LOCAL-00001" summary="exercise 1">
       <option name="closed" value="true" />
@@ -306,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779548488296</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit update">
+      <option name="closed" value="true" />
+      <created>1779636493518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779636493518</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,6 +360,7 @@
     <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$02_Functions_Parameters_Arguments.coverage" NAME="02-Functions-Parameters-Arguments Coverage Results" MODIFIED="1779250120794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-Functions" />
     <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$01_Numpy_Pandas_Manipulation.coverage" NAME="01-Numpy-Pandas-Manipulation Coverage Results" MODIFIED="1779546388175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10-Data-science-with-python" />
     <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$03_Polymorphism.coverage" NAME="03-Polymorphism Coverage Results" MODIFIED="1779334379783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5-object-orinted-programming-oop" />
+    <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$urls__1_.coverage" NAME="urls (1) Coverage Results" MODIFIED="1779636393712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11-Web-Development-python" />
     <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$03_matplotlib.coverage" NAME="03-matplotlib Coverage Results" MODIFIED="1779420485690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7-module-Pakagesss" />
     <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$01_Flask_FrameWork.coverage" NAME="01-Flask-FrameWork Coverage Results" MODIFIED="1779631875879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11-Web-Development-python" />
     <SUITE FILE_PATH="coverage/PYTHON_101_Compelete_Python_Programming_Step_by_Step_Guide$02_Variables_and_operator.coverage" NAME="02-Variables-and-operator Coverage Results" MODIFIED="1779204468670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-Introduction-to-python" />
